@@ -1,5 +1,5 @@
 <p align="center">
-<img width="200" height="200" src="https://raw.githubusercontent.com/zyno-us/.github/main/src/brand/zyno.png">
+<img width="200" height="200" src="https://raw.githubusercontent.com/zyno-us/.github/main/zyno.png">
 </p>
 <h1 align="center">Zyno</h1>
 
